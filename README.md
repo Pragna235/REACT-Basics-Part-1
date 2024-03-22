@@ -2,6 +2,8 @@
 
 ### Files - https://github.com/Pragna235/REACT-Basics-Part-1/tree/master/react-demo
 
+### Live Project - https://react-hooks-and-apis.netlify.app/
+
 ## References
 
 * Download the Extension in VSCode - `ES7 React/Redux/GraphQL/React-Native snippets`
