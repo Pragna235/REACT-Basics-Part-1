@@ -6,4 +6,4 @@
 * `https://react-hook-form.com/`
 * Install Bootstrap
 *     npm i bootstrap
-* 
+*     npm i react-hook-form
