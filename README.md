@@ -16,3 +16,7 @@
 * Put this line `import 'bootstrap/dist/css/bootstrap.css` in `index.js` if bootstrap is being used
 *     https://reactrouter.com/en/main
 *     npm i react-router-dom
+
+* Part 1 -
+* Part 2 -
+* Part 3 - https://github.com/Pragna235/REACT-Basics-Part-3/tree/main
