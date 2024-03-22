@@ -17,6 +17,6 @@
 *     https://reactrouter.com/en/main
 *     npm i react-router-dom
 
-* Part 1 -
-* Part 2 -
+* Part 1 - https://github.com/Pragna235/REACT-Basics-Part-1/tree/main
+* Part 2 - https://github.com/Pragna235/REACT-Basics-Part-2/tree/main
 * Part 3 - https://github.com/Pragna235/REACT-Basics-Part-3/tree/main
