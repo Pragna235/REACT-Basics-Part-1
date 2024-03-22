@@ -7,3 +7,4 @@
 * Install Bootstrap
 *     npm i bootstrap
 *     npm i react-hook-form
+* Put this line `import 'bootstrap/dist/css/bootstrap.css' in `index.js`
